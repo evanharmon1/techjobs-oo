@@ -28,6 +28,12 @@ public class JobForm {
         Don't forget to add getters and setters
      */
 
+    //Location
+
+    //Skill (CoreCompetency)
+
+    //Position Type
+
     private ArrayList<Employer> employers;
     private ArrayList<Location> locations;
     private ArrayList<CoreCompetency> coreCompetencies;
